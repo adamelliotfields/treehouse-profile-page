@@ -20,7 +20,7 @@ under 400kb and the background image is under 1mb.
 
 ## Usage
 
-You can view hosted site [here](https://adamelliotfields.github.io/treehouse-profile-page).
+You can view hosted site [here](https://adamelliotfields.github.io/treehouse-profile-page/index.html).
 
 You can also simply open `index.html` in your browser directly. For example, if your macOS user name
 is `adam` and you cloned the repo in `~/Downloads`, then go to
